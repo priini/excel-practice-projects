@@ -28,10 +28,6 @@ This repository includes various projects aimed at exploring different Excel fun
 
 Contributions are welcome! If you have ideas for new projects or improvements, feel free to open an issue or submit a pull request.
 
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
-
 ---
 
 Let me know if you'd like to add or modify anything!
