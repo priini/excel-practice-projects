@@ -4,7 +4,7 @@ Here's a short README you can use for your project:
 
 # Excel Practice Projects
 
-Welcome to the **Excel Practice Projects** repository! This collection is designed to help you practice and improve your Excel skills through hands-on projects.
+Welcome to the **Excel Practice Projects** repository! This collection is designed to practice and improve Excel skills through hands-on projects.
 
 ## 📂 Project Overview
 
